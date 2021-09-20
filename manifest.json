@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "PRERIT",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "preet.jpg"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
